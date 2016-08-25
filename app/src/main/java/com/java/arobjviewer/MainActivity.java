@@ -18,6 +18,9 @@ import edu.dhbw.andarmodelviewer.R;
 
 //hi there
 //dfskcnwv
+
+
+// bc mc loda aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 public class MainActivity extends Activity {
 
 	public static final String PREFS_NAME = "MyPrefsFile";
