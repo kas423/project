@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:15:19-67
+supports-screens
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:17:5-21:39
+	android:largeScreens
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:19:9-36
+	android:smallScreens
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:21:9-36
+	android:normalScreens
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:20:9-37
+	android:anyDensity
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:18:9-34
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:24:5-25:23
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:24:22-64
+application
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:27:5-76:19
+	android:label
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:29:9-38
+	android:description
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:28:9-54
+	android:theme
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:31:9-40
+uses-library#com.google.android.maps
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:32:9-64
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:32:23-61
+activity#com.java.arobjviewer.AugmentedModelViewerActivity
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:36:13-45
+	android:screenOrientation
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:39:13-50
+	android:exported
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:37:13-37
+	android:icon
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:38:13-42
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:35:13-77
+activity#edu.dhbw.andar.ARActivity
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:43:13-45
+	android:screenOrientation
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:46:13-50
+	android:exported
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:44:13-37
+	android:icon
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:45:13-42
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:42:13-53
+activity#com.java.arobjviewer.ModelChooser
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:49:19-67
+activity#com.java.arobjviewer.AboutUsActivity
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:52:9-53:20
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:52:19-70
+activity#com.java.arobjviewer.MainActivity
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:56:9-62:20
+	android:label
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:60:13-45
+	android:icon
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:58:13-42
+	android:theme
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:57:13-61
+activity#com.java.arobjviewer.Login
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:64:9-73:24
+	android:label
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:67:13-45
+	android:icon
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:66:13-42
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:65:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:68:14-71:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:69:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:70:27-74
+activity#com.java.arobjviewer.ForgetPass
+ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:74:9-77
+	android:name
+		ADDED from C:\Users\kashish\StudioProjects\MainActivity\app\src\main\AndroidManifest.xml:74:19-65

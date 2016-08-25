@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW\\values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 81,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 169,
+                        "endColumn": 77,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 92,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 582,
+                        "endColumn": 88,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 55,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 55,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 50,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 961,
+                        "endColumn": 46,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 56,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 810,
+                        "endColumn": 52,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 46,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 1043,
+                        "endColumn": 42,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 53,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 320,
+                        "endColumn": 49,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 36,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1009,
+                        "endColumn": 32,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 48,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1087,
+                        "endColumn": 44,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 45,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 864,
+                        "endColumn": 41,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 46,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 538,
+                        "endColumn": 42,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 74,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 248,
+                        "endColumn": 70,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 37,
+                    "endOffset": 782
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 423,
+                        "endColumn": 33,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 787,
+                    "endColumn": 36,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 496,
+                        "endColumn": 32,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 52,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 88,
+                        "startOffset": 760,
+                        "endColumn": 136,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 50,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 42,
+                        "startOffset": 714,
+                        "endColumn": 88,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 55,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 116,
+                        "endColumn": 51,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 46,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 672,
+                        "endColumn": 42,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 40,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 458,
+                        "endColumn": 36,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 54,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 371,
+                        "endColumn": 50,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endColumn": 56,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 907,
+                        "endColumn": 52,
+                        "endOffset": 959
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\screenshoticon.png",
+        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\screenshoticon.png"
+    },
+    {
+        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\translate.png",
+        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\translate.png"
+    },
+    {
+        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rotate.png",
+        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\scale.png",
+        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\scale.png"
+    }
+]

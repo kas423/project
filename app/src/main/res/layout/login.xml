@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:singleLine="true"
+        android:textColor="#A46A46"
+        android:textColorHint="#eab6a0" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/pass"
+        android:layout_alignRight="@+id/pass"
+        android:layout_below="@+id/pass"
+        android:layout_marginTop="31dp"
+        android:background="@drawable/mybuttons"
+        android:text="submit"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/forgetpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonSubmit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Forget Password?"
+        android:textColor="#A46A46" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_above="@+id/pass"
+        android:layout_alignRight="@+id/pass"
+        android:layout_marginBottom="22dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="user id"
+        android:textColor="#A46A46"
+        android:textColorHint="#eab6a0" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:text="Knowledge Based Augmented Reality"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#a2243d" />
+
+</RelativeLayout>

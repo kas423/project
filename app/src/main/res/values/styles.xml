@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- <style name="AppTheme" parent="android:Theme.Light" /> -->
+<style name="Theme.D1" parent="android:Theme.Black">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
