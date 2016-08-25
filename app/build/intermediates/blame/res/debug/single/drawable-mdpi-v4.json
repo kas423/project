@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\missingimage.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-mdpi\\missingimage.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-mdpi\\help.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-mdpi\\help.png"
     },
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\missingimage.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-mdpi\\missingimage.png"
     },
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\open.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-mdpi\\open.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\open.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-mdpi\\open.png"
     }
 ]

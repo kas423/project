@@ -16,7 +16,7 @@ import android.widget.TextView;
 
 import edu.dhbw.andarmodelviewer.R;
 
-
+//hi there
 public class MainActivity extends Activity {
 
 	public static final String PREFS_NAME = "MyPrefsFile";

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 181
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
-                        "startOffset": 164,
+                        "startOffset": 169,
                         "endColumn": 126,
-                        "endOffset": 290
+                        "endOffset": 295
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 251
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
-                        "startOffset": 825,
+                        "startOffset": 844,
                         "endColumn": 65,
-                        "endOffset": 890
+                        "endOffset": 909
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 296
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 60,
+                        "startOffset": 63,
                         "endColumn": 44,
-                        "endOffset": 100
+                        "endOffset": 103
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 355
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 0,
-                        "startOffset": 1256,
+                        "startOffset": 1280,
                         "endColumn": 54,
-                        "endOffset": 1310
+                        "endOffset": 1334
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 423
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 0,
-                        "startOffset": 1074,
+                        "startOffset": 1095,
                         "endColumn": 63,
-                        "endOffset": 1137
+                        "endOffset": 1158
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 478
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 0,
-                        "startOffset": 1346,
+                        "startOffset": 1372,
                         "endColumn": 50,
-                        "endOffset": 1396
+                        "endOffset": 1422
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 550
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
-                        "startOffset": 414,
+                        "startOffset": 421,
                         "endColumn": 67,
-                        "endOffset": 481
+                        "endOffset": 488
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 589
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 0,
-                        "startOffset": 1311,
+                        "startOffset": 1336,
                         "endColumn": 34,
-                        "endOffset": 1345
+                        "endOffset": 1370
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 638
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 0,
-                        "startOffset": 1397,
+                        "startOffset": 1424,
                         "endColumn": 44,
-                        "endOffset": 1441
+                        "endOffset": 1468
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 692
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 0,
-                        "startOffset": 1138,
+                        "startOffset": 1160,
                         "endColumn": 49,
-                        "endOffset": 1187
+                        "endOffset": 1209
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 752
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
-                        "startOffset": 708,
+                        "startOffset": 725,
                         "endColumn": 55,
-                        "endOffset": 763
+                        "endOffset": 780
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 799
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
-                        "startOffset": 661,
+                        "startOffset": 673,
                         "endColumn": 42,
-                        "endOffset": 703
+                        "endOffset": 715
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 864
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
-                        "startOffset": 764,
+                        "startOffset": 782,
                         "endColumn": 60,
-                        "endOffset": 824
+                        "endOffset": 842
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 991
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
-                        "startOffset": 291,
+                        "startOffset": 297,
                         "endColumn": 122,
-                        "endOffset": 413
+                        "endOffset": 419
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1033
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
-                        "startOffset": 543,
+                        "startOffset": 552,
                         "endColumn": 37,
-                        "endOffset": 580
+                        "endOffset": 589
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1073
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
-                        "startOffset": 625,
+                        "startOffset": 636,
                         "endColumn": 35,
-                        "endOffset": 660
+                        "endOffset": 671
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1146
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 114,
-                        "startOffset": 1005,
+                        "startOffset": 1025,
                         "endColumn": 182,
-                        "endOffset": 1073
+                        "endOffset": 1093
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1208
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 57,
-                        "startOffset": 948,
+                        "startOffset": 968,
                         "endColumn": 114,
-                        "endOffset": 1005
+                        "endOffset": 1025
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1275
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
-                        "startOffset": 101,
+                        "startOffset": 105,
                         "endColumn": 62,
-                        "endOffset": 163
+                        "endOffset": 167
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1337
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 0,
-                        "startOffset": 891,
+                        "startOffset": 911,
                         "endColumn": 57,
-                        "endOffset": 948
+                        "endOffset": 968
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1385
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
-                        "startOffset": 581,
+                        "startOffset": 591,
                         "endColumn": 43,
-                        "endOffset": 624
+                        "endOffset": 634
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1450
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
-                        "startOffset": 482,
+                        "startOffset": 490,
                         "endColumn": 60,
-                        "endOffset": 542
+                        "endOffset": 550
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1522
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 0,
-                        "startOffset": 1188,
+                        "startOffset": 1211,
                         "endColumn": 67,
-                        "endOffset": 1255
+                        "endOffset": 1278
                     }
                 }
             },
@@ -449,7 +449,7 @@
                     "endOffset": 1710
                 },
                 "from": {
-                    "file": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\New folder\\project\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 0,

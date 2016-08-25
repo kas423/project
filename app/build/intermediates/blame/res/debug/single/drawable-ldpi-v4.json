@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\screenshoticon.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\screenshoticon.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\scale.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-ldpi\\scale.png"
     },
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\translate.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\translate.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\screenshoticon.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-ldpi\\screenshoticon.png"
     },
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rotate.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\rotate.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\translate.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-ldpi\\translate.png"
     },
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\scale.png",
-        "source": "C:\\Users\\kashish\\StudioProjects\\MainActivity\\app\\src\\main\\res\\drawable-ldpi\\scale.png"
+        "merged": "F:\\New folder\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rotate.png",
+        "source": "F:\\New folder\\project\\app\\src\\main\\res\\drawable-ldpi\\rotate.png"
     }
 ]
